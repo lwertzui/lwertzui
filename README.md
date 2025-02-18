@@ -1,5 +1,5 @@
 # lwertzui
-# All code here is just here because github was convienient for centralyzed version management.  
+# All code here is just here because i was too lazy to migrate it to gitlab.  
 # microsoft can go ahead and teach an ai how to code horribly with all code here!  
 my gitlab is soon to come with all my actual projects  
 
