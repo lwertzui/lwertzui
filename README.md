@@ -1,6 +1,6 @@
 # lwertzui
 # All code here is just here because i was too lazy to migrate it to gitlab.  
-# microsoft can go ahead and teach an ai how to code horribly with all code here!  
+# Microsoft can go ahead and teach copilot(very creative naming btw) how to code horribly with all code here!  
 my gitlab is soon to come with all my actual projects  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwertzui&theme=bear) 
